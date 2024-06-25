@@ -1,5 +1,11 @@
+import Shop from "./components/Shop/Shop.jsx";
+
 const App = () => {
-  return <h1>Hello world!</h1>;
+  return (
+    <>
+      <Shop />
+    </>
+  );
 };
 
 export default App;
